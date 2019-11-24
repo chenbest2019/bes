@@ -1,10 +1,8 @@
 # BESAIChain
 
-#### 项目介绍
-BESAIChain,源于狗狗币打造人工智能区块链平台。
-1.打造全民区块链数据贡献产权分享平台
-2.打造全民算力贡献产权分享平台
-3.打造全民模型贡献产权分享平台
-4.打造全民算法贡献产权分享平台
-
-
+Project introduction
+BESAIChain is based on doggy coin to build an artificial intelligence blockchain platform.
+1. Build a nationwide blockchain data contribution property rights sharing platform 
+2. Build a nationwide computing power contribution property rights sharing platform 
+3. Build a nationwide model contribution property rights sharing platform 
+4. Build a nationwide algorithm contribution property rights sharing platform
